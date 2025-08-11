@@ -30,7 +30,7 @@ function reset(){
 }
 
 function getBack(){
-    window.location.href="test.html";
+    window.location.href="index.html";
 }
 
 
